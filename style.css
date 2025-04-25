@@ -39,8 +39,7 @@ a {
 }
 
 .slider {
-    width: 100%;
-    max-width: 600px;
+    width: 600px;
     height: 300px;
     margin: auto;
     overflow: hidden;
@@ -110,9 +109,8 @@ a {
 }
 
 img {
-    width: 100%;
-    max-width: 250px;
-    height: auto;
+    width: 250px;
+    height: 250px;
 }
 
 
@@ -154,8 +152,7 @@ img {
 }
 
 .history-container img {
-    width: 100%;
-    max-width: 300px;
+    width: 300px;
     height: auto;
     border-radius: 8px;
 }
@@ -187,7 +184,6 @@ footer {
 }
 
 .logos {
-    width: 100%;
-    max-width: 450px;
+    width: 450px;
     animation: fade 2s ease-in;
 }
